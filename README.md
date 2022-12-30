@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yogesh Singh
-- 👀 I’m interested in Full Stack Web Devloper
+- 👀 I’m interested in FrontEnd  Web Devloper.
 - 🌱 I’m currently learning jAVA,HTML,CSS,JAVASCRIPT,REACT.
 - 📫 How to reach me https://www.linkedin.com/in/yogesh-singh-4b909b149
 
